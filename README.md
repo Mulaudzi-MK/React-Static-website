@@ -8,7 +8,7 @@ Static and Responsive Website created using React
 ```
 ## Project Run
 ```
-npm run
+npm start
 
 ```
 
