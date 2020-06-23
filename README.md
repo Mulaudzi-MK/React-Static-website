@@ -1,5 +1,5 @@
 # Static-website-React
-Static Website created using React
+Static and Responsive Website created using React
 
 
 ## Project Setup
